@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-mongoose.connect("mongodb+srv://master:10101010@apilazynews.gqefyrv.mongodb.net/?retryWrites=true&w=majority" )
+mongoose.connect("" )
 
 
 
